@@ -7,6 +7,7 @@ import re
 import webbrowser
 import smtplib
 import subprocess as sp
+import main
 
 ##################################################################
 
